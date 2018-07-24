@@ -1,0 +1,13 @@
+package ex8;
+
+public class ex8 {
+	public static void main(String args[])
+	{
+		System.out.println("   J     A   V      V      A ");
+        System.out.println("   J    A  A  V    V     A  A");
+        System.out.println("   J   AAAAAA  V  V     AAAAAA");
+        System.out.println("J  J  A      A   V     A     A");
+        System.out.println("JJJJ A        A       A       A");
+	}
+
+}
